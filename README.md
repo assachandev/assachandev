@@ -29,17 +29,6 @@ My work covers predictive maintenance systems, computer vision pipelines, and Li
 
 ---
 
-### Projects
-
-| Repo | Description |
-|------|-------------|
-| [pdm-vibration](https://github.com/assachandev/pdm-vibration) | Predictive maintenance system using vibration sensors and edge AI |
-| [dotfiles](https://github.com/assachandev/dotfiles) | Personal Arch Linux dotfiles with interactive setup script |
-| [Hyprlust](https://github.com/assachandev/Hyprlust) | Hyprland desktop configuration for Arch Linux with automated installer |
-| [nvim](https://github.com/assachandev/nvim) | Neovim config — LSP-first, lazy-loaded, Catppuccin Mocha |
-
----
-
 ### Stats
 
 <div align="center">
