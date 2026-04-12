@@ -3,7 +3,8 @@
 ## assachan senpaseuth
 
 CS student with 2 years of part-time experience in IoT & AI engineering.
-Focused on building practical systems at the intersection of hardware and AI.
+Focused on building practical systems at the intersection of hardware and AI — from edge inference to cloud pipelines.
+Passionate about applying AI to real-world industrial problems, and working toward a full-time role as an AI Engineer.
 
 </div>
 
