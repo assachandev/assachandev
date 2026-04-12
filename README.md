@@ -29,10 +29,6 @@ Passionate about applying AI to real-world industrial problems, and working towa
 
 **Platforms & Tools**
 ![Linux Server](https://img.shields.io/badge/Linux_Server-FCC624?style=flat-square&logo=linux&logoColor=black) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**AI/ML**
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square) ![LLM Integration](https://img.shields.io/badge/LLM_Integration-10B981?style=flat-square)
-
 ---
 
 ### Currently Learning
