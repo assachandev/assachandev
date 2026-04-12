@@ -47,7 +47,7 @@ Focused on building practical systems at the intersection of hardware and AI.
 
 ### Currently Learning
 
-`Data Analysis` `Data Science` `Machine Learning` `Deep Learning` `Statistics for ML/DL` `Rust` `Docker` `Linux internals`
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-2563EB?style=flat-square) ![Data Science](https://img.shields.io/badge/Data_Science-7C3AED?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-059669?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-DC2626?style=flat-square) ![Statistics for ML/DL](https://img.shields.io/badge/Statistics_for_ML/DL-D97706?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux internals](https://img.shields.io/badge/Linux_internals-4B5563?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
