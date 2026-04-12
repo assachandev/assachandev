@@ -38,11 +38,4 @@ Passionate about applying AI to real-world industrial problems, and working towa
 
 ---
 
-<div align="center">
-
 ![editor](https://img.shields.io/badge/editor-neovim-57A143?style=flat-square) ![os](https://img.shields.io/badge/os-arch_linux-1793D1?style=flat-square)
-
-</div>
-
-
-
