@@ -29,6 +29,7 @@ Passionate about applying AI to real-world industrial problems, and working towa
 
 **Platforms & Tools**
 ![Linux Server](https://img.shields.io/badge/Linux_Server-FCC624?style=flat-square&logo=linux&logoColor=black) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 ---
 
 ### Currently Learning
