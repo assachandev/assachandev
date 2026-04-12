@@ -37,13 +37,13 @@ Passionate about applying AI to real-world industrial problems, and working towa
 
 ### Currently Learning
 
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-2563EB?style=flat-square) ![Data Science](https://img.shields.io/badge/Data_Science-7C3AED?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-059669?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-DC2626?style=flat-square) ![Statistics for ML/DL](https://img.shields.io/badge/Statistics_for_ML/DL-D97706?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux internals](https://img.shields.io/badge/Linux_internals-4B5563?style=flat-square&logo=linux&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-2563EB?style=flat-square) ![Data Science](https://img.shields.io/badge/Data_Science-7C3AED?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-059669?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-DC2626?style=flat-square) ![Statistics for ML/DL](https://img.shields.io/badge/Statistics_for_ML/DL-D97706?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 <div align="center">
 
-![editor](https://img.shields.io/badge/editor-neovim-57A143?style=flat-square) ![os](https://img.shields.io/badge/os-arch_linux-1793D1?style=flat-square) ![style](https://img.shields.io/badge/style-cli--first-gray?style=flat-square)
+![editor](https://img.shields.io/badge/editor-neovim-57A143?style=flat-square) ![os](https://img.shields.io/badge/os-arch_linux-1793D1?style=flat-square)
 
 </div>
 
